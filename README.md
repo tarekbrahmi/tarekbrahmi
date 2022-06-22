@@ -18,6 +18,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<a href="https://gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/
   
 </p>
 
@@ -30,12 +32,6 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a> 
 </p>
 
-## 🚀 Data visualisation :
-
-<p align="center"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
-</p>
 
 ## 🚀 Deployment :
 
