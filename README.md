@@ -52,11 +52,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tarekbrahmi/github-readme-stats">
+    <a href="#">
     <img width="450px" alt="Brahmi Tarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tarekbrahmi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-  <a href="https://github.com/tarekbrahmi/github-readme-stats">
-  <img width="327px" alt="Brahmi Tarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekbrahmi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="#">
+  <img width="250px" alt="Brahmi Tarek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekbrahmi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
