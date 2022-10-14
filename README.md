@@ -4,7 +4,12 @@
 <h3 align="center">I'm 𝕖𝕞𝕓𝕖𝕕𝕕𝕖𝕕 𝕤𝕪𝕤𝕥𝕖𝕞𝕤 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 | 𝕀𝕠𝕋 | 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 from Tunisia 💻.</h3>
 
 ## 🙋‍♂️ About Me
+- Currently in engineering studies in embedded systems at the Faculty of Sciences of Tunis.
+- I am looking for a company that could welcome me as part of an **end of studies project(PFE)**. 
+- Thank you very much for the attention you will pay to this request. 
+- I am at your disposal for an interview.
 - 📩 How to reach me **brahmitarek6@gmail.com || brahmi.tarek@etudiant-fst.utm.tn**
+- 📞 **+216 53822480 **
 - 📢 Linkend in profile [Brahmi Tarek](https://www.linkedin.com/in/brahmi-tarek/)
 - 🔗 My gitlab profile  [Tarek Brahmi](https://gitlab.com/brahmitarek6)
 
