@@ -9,7 +9,7 @@
 - Thank you very much for the attention you will pay to this request. 
 - I am at your disposal for an interview.
 - 📩 How to reach me **brahmitarek6@gmail.com || brahmi.tarek@etudiant-fst.utm.tn**
-- 📞 **+216 53822480 **
+- 📞 __+216 53822480__
 - 📢 Linkend in profile [Brahmi Tarek](https://www.linkedin.com/in/brahmi-tarek/)
 - 🔗 My gitlab profile  [Tarek Brahmi](https://gitlab.com/brahmitarek6)
 
