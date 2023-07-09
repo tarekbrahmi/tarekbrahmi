@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Brahmi</h1>
-<h3 align="center">I'm 𝕖𝕞𝕓𝕖𝕕𝕕𝕖𝕕 𝕤𝕪𝕤𝕥𝕖𝕞𝕤 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 | 𝕀𝕠𝕋 | 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 from Tunisia 💻.</h3>
+<h3 align="center">I'm 𝕖𝕞𝕓𝕖𝕕𝕕𝕖𝕕 𝕤𝕪𝕤𝕥𝕖𝕞𝕤 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 | 𝕀𝕠𝕋 | 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 from Tunisia 💻.</h3>
 
 
 
