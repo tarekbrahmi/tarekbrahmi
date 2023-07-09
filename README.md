@@ -29,7 +29,6 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ionic.png"/> </a>
 <a href="https://opencv.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a> 
 </p>
 
 
