@@ -11,6 +11,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/c-programming.png"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/c-plus-plus-logo.png"/> </a>
+<a href="https://go.dev" target="_blank"> <img src="https://icons8.com/icon/7ej5ASIwdQXG/go-logo.png"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/bash.png"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a><br/>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -29,6 +30,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ionic.png"/> </a>
 <a href="https://opencv.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
+<a href="https://www.ansible.com" target="_blank"> <img src="https://icons8.com/icon/iGCCE2iEmh2u/ansible.png"/> </a>  
 </p>
 
 
